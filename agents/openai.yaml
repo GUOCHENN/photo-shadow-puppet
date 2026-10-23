@@ -1,0 +1,4 @@
+interface:
+  display_name: "把照片请上皮影戏台"
+  short_description: "照片转传统彩色皮影海报，上半原照、下半暖光幕布，保留主体神态与大量留白"
+  default_prompt: "使用 $photo-shadow-puppet，把我上传的照片做成上半原照、下半暖光彩色皮影的 3:4 竖版海报。"
